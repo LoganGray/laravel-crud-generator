@@ -1,4 +1,9 @@
-# laravel-crud-generator
+# laravel-crud-generator  (Logan Mod)
+
+I played with this version, and found it more than a little interesting.
+I liked that it only depended on already existing tables.
+I did not like that it used a jquery datagrid to render the table.
+I also think that it could be improved with maybe integrating how relise generates models.
 
 [![Latest Stable Version](https://poser.pugx.org/kepex/laravel-crud-generator/v/stable)](https://packagist.org/packages/kepex/laravel-crud-generator) [![Total Downloads](https://poser.pugx.org/kepex/laravel-crud-generator/downloads)](https://packagist.org/packages/kepex/laravel-crud-generator) [![Latest Unstable Version](https://poser.pugx.org/kepex/laravel-crud-generator/v/unstable)](https://packagist.org/packages/kepex/laravel-crud-generator) [![License](https://poser.pugx.org/kepex/laravel-crud-generator/license)](https://packagist.org/packages/kepex/laravel-crud-generator)
 
